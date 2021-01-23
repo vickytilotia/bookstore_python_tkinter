@@ -1,0 +1,4 @@
+postgre sql credentials
+
+port - 5432
+pass - akshay*bo**
