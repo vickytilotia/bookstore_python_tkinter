@@ -12,7 +12,9 @@ delete
 close
 """
 
+
 from tkinter import *
+#This is temporary, need to change *  to specific
 from bookstore_backend import Database
 
 database = Database()
@@ -116,7 +118,7 @@ b5.grid(row = 6, column=3)
 b6 = Button(window, text = "Close", width = 12, command = window.destroy)
 b6.grid(row = 7, column=3)
 
-view_command()
-window.wm_title("Book Store")
+view_command()  #This will initially show books list in the column
+window.wm_title("Book Store") #title of the  window
 
 window.mainloop()
