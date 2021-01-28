@@ -13,8 +13,7 @@ close
 """
 
 
-from tkinter import *
-#This is temporary, need to change *  to specific
+from tkinter import Button,Label,LabelFrame,Text,Tk,Pack,StringVar,Entry,Listbox,Scrollbar,END
 from bookstore_backend import Database
 
 database = Database()
