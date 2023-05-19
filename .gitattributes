@@ -4,3 +4,6 @@
 *.latex  linguist-vendored
 *.ltx linguist-vendored
 *.tex linguist-vendored
+*.toc linguist-vendored
+*.pyz linguist-vendored
+*.exe linguist-vendored
