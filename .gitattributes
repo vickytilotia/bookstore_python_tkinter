@@ -1,3 +1,6 @@
 *.html linguist-vendored
 *.TeX linguist-vendored
 *TeX linguist-vendored
+*.latex  linguist-vendored
+*.ltx linguist-vendored
+*.tex linguist-vendored
